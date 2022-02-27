@@ -1,0 +1,1 @@
+1480421568;890381c983b6eca60a435ebf5a4bdbd7a32660f0;Jorim Jaggi <jjaggi@google.com>;1480421568;+0100;Fix security vulnerability\n\nChange-Id: I19028233d2ce79ef08947f00d2ecba20312579cc Fixes: 32769670 (cherry picked from commit 28d83109cba8e1949032c78465649ba21db2d22e)

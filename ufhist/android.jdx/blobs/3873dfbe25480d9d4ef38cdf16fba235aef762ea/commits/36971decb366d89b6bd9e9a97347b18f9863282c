@@ -1,0 +1,1 @@
+1444175329;36971decb366d89b6bd9e9a97347b18f9863282c;alleew <wallee777@hotmail.com>;1444175329;-0700;Created a separate project for the GameEngineCPlugins that will create a static library ( .a file). The iOS version of a game will need to statically link to libGameEngineCPlugins.a and libfreetype.a to work.

@@ -1,0 +1,1 @@
+1399407163;5ea86e812e810be7d2644072c42c10c3caea9f4f;BlueRiverTeam <blueriverteam@gmail.com>;1399407163;+0200;Added jpgd, a JPEG decompressor, which allows for progressive JPEG support. Will be used when stb_image fails on progressive jpegs.

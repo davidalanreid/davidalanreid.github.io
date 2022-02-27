@@ -1,0 +1,1 @@
+1492101519;e3b5da5b36d52675bcae8f2fc6e6561a6ef6e938;Lucas Dupin <dupin@google.com>;1492101519;-0700;Fix series of JPEG vulnerabilities\n\nTest: PoC Bug: 35639138 Change-Id: I7fc4385d7f446ecfbc7dbd350e4c9bac6db0c9f0 (cherry picked from commit 117c2d5b213b42b8cb2bedc45b6139a8f4516712)

@@ -1,0 +1,1 @@
+1446684769;da06b3c79b38ec78a5c1f4b70664416c8bffee70;alleew <wallee777@hotmail.com>;1446684769;-0800;Added the C files to the hints branch. The included project contains the JNI code needed for IOS graphics, but is missing a pair of libraries and therefore won't compile successfully yet.

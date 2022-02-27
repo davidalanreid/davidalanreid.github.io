@@ -1,0 +1,7 @@
+1603043156;d1ee73b81df248413c2547d705a9a98f5a7cbb43;Nicholaus <bloomn1@unlv.nevada.edu>;1603043156;-0700;Revert "Modified Terrain.quorum to get rid of the clutter. Changed name of GenerateVectors to GeneratePoints. Changed function name in appropriate classes. Please see the comments I have made and see if it works fine. Make any changes that are necessary."\n\nThis reverts commit 1fc7cda9df00366ca6a0a86451233dd92d15276e.
+1602724843;b90aaa3d34cb9ffd297b48f93597b6b29fd4d07a;Anthony Iskandar <antiskandar@gmail.com>;1602724843;-0700;Trying to fix mistake
+1530133079;8d8488aed21e8ff4a57d90bb0f2000b9f62ac4ec;XKRC <mxkrc96@gmail.com>;1530133079;-0700;Merge origin/Quorum6 into Quorum6
+1530126670;0f878c1d9a2b439d1e1fe8b30bf38d50900c82d7;jackmackey <jackmackey@lisp.cs.unlv.edu>;1530126670;-0700;Merge origin/Quorum6 into Quorum6
+1530049245;944ba023620550502b6da65545643f7b55bd5458;stefika <stefika@192.168.17.14>;1530049245;-0700;Merge origin/Quorum6 into Quorum6
+1529970883;13c7e5957677c8f644af94189d15c5ebfb9dc500;alleew <alleew@occam.cs.unlv.edu>;1529970883;-0700;Updated the .so file used for Mac so that it once again can use FreeType for its fonts. The Mac native project is now fully updated with fonts and the proper libraries, and there's a text document briefly describing how to build Freetype for Mac.
+1436461273;6f48147b7bcf0b33273d15fe53868dc34abf5c52;William Allee <wallee777@hotmail.com>;1436461273;-0700;Added the game engine C Plugins for Mac and Windows to the repository.
